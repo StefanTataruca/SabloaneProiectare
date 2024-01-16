@@ -43,10 +43,10 @@ public class main {
         System.out.println(" ");
         System.out.println(" ");
 
-        System.out.println("OBSSSSSS ");
+        System.out.println(" ----------- ");
         noapteBuna.addContent(cap1);
-        // stats.printStatistics();
-        Printing();
+        stats.printStatistics();
+        //Printing();
 
     }}
 
