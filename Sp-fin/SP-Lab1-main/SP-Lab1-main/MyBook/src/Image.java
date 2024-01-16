@@ -11,7 +11,7 @@ public class Image implements Element {
     Image(String name) {
         this.name = name;
         try {
-            TimeUnit.SECONDS.sleep(5);
+            TimeUnit.SECONDS.sleep(6);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
